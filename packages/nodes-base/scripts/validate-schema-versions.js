@@ -188,4 +188,4 @@ try {
 } catch (error) {
 	console.warn('⚠️  Schema validation script encountered an error:', error.message);
 	console.warn('Continuing without blocking...');
-}
+};

@@ -262,4 +262,4 @@ if (require.main === module) {
 		logger.error(`Evaluation failed: ${message}`);
 		process.exit(1);
 	});
-}
+};

@@ -40,4 +40,4 @@ if (definedButUnused.length > 0) {
 	console.warn('Warning: The following load options methods are defined but unused.');
 	console.warn('Please consider using or removing the methods.');
 	console.warn(definedButUnused);
-}
+};

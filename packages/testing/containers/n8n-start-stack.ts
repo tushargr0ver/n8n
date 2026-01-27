@@ -392,4 +392,4 @@ if (require.main === module) {
 		log.error(`Unexpected error: ${error}`);
 		process.exit(1);
 	});
-}
+};
